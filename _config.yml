@@ -1,13 +1,13 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Songhee Kim, Ph.D.
+url: "https://songhee-kim.github.io"
+#baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   #link: "/researcher/"
+ - name: "CV"
+   link: "CV_SongheeKim.pdf"
  - name: "Contact"
    link: "contact"
