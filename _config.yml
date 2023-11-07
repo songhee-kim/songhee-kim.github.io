@@ -20,5 +20,7 @@ nav:
    #link: "/researcher/"
  - name: "CV"
    link: "CV_SongheeKim.pdf"
+ - name: "Miscallaneous"
+   link: miscell
  - name: "Contact"
    link: "contact"
