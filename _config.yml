@@ -17,6 +17,7 @@ sass:
 
 nav:
  - name: "About"
+   link: index
    #link: "/researcher/"
  - name: "CV"
    link: "CV_SongheeKim.pdf"
