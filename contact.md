@@ -8,5 +8,5 @@ is_contact: true
 
 ---
 
-[My Twitter](#https://twitter.com/songhee_kim_) : I've lost my access to this account, currently in process to recover it.
+[My Twitter](https://twitter.com/songhee_kim_) (I've lost my access to this account, currently trying to recover it)
 
