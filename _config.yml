@@ -19,6 +19,8 @@ nav:
  - name: "About"
    link: index
    #link: "/researcher/"
+ - name: "Projects"
+   link: "projects"
  - name: "CV"
    link: "CV_SongheeKim.pdf"
  - name: "Contact"
