@@ -5,11 +5,11 @@
 
 (in review) Wang, Shaonan, **Songhee Kim**, Jeffrey R. Binder, and Liina Pylkkänen. Unlocking the complexity of phrasal composition: an interplay between semantic features and linguistic relations.
 
-**Kim, S.**, Binder, J. R., Humphries, C., & Conant, L. L. (2024). Decomposing unaccusativity: a statistical modelling approach. *Language, Cognition and Neuroscience*, 1–23. https://doi.org/10.1080/23273798.2024.2368119 [pdf](Kim_Decomposing unaccusativity.pdf)
+**Kim, S.**, Binder, J. R., Humphries, C., & Conant, L. L. (2024). Decomposing unaccusativity: a statistical modelling approach. *Language, Cognition and Neuroscience*, 1–23. [https://doi.org/10.1080/23273798.2024.2368119](https://doi.org/10.1080/23273798.2024.2368119])
 
-**Kim, S**., & Pylkkänen, L. (2021). How the conceptual specificity of individual words affects incremental sentence composition: MEG evidence.  *Brain and Language*, 218, https://doi.org/10.1016/j.bandl.2021.104951
+**Kim, S**., & Pylkkänen, L. (2021). How the conceptual specificity of individual words affects incremental sentence composition: MEG evidence.  *Brain and Language*, 218, [https://doi.org/10.1016/j.bandl.2021.104951](https://doi.org/10.1016/j.bandl.2021.104951)
 
-**Kim, S**., & Pylkkänen, L. (2019). Composition of event concepts: Evidence for distinct roles for the left and right anterior temporal lobes. *Brain and Language*, 188, 18-27. https://doi.org/10.1016/j.bandl.2018.11.003
+**Kim, S**., & Pylkkänen, L. (2019). Composition of event concepts: Evidence for distinct roles for the left and right anterior temporal lobes. *Brain and Language*, 188, 18-27. [https://doi.org/10.1016/j.bandl.2018.11.003](https://doi.org/10.1016/j.bandl.2018.11.003)
 
 Mun, Sue-Hyun,  **Kim, Songhee**, Lee, Chungmin (2012). On the event structure and semantic representation of a record verb: the case of ‘*CD-lul kwup-ta* (to burn a CD)’.  *Discourse and Cognition*  19:3.
 
