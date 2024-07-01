@@ -4,7 +4,7 @@
 
 (in review) Wang, Shaonan, **Songhee Kim**, Jeffrey R. Binder, and Liina Pylkkänen. Unlocking the complexity of phrasal composition: an interplay between semantic features and linguistic relations.
 
-**Kim, S.**, Binder, J. R., Humphries, C., & Conant, L. L. (2024). Decomposing unaccusativity: a statistical modelling approach. *Language, Cognition and Neuroscience*, 1–23. https://doi.org/10.1080/23273798.2024.2368119 ![pdf](./preprints/Kim_Decomposing unaccusativity.pdf)
+**Kim, S.**, Binder, J. R., Humphries, C., & Conant, L. L. (2024). Decomposing unaccusativity: a statistical modelling approach. *Language, Cognition and Neuroscience*, 1–23. https://doi.org/10.1080/23273798.2024.2368119 [pdf](./preprints/Kim_Decomposing unaccusativity.pdf)
 
 **Kim, S**., & Pylkkänen, L. (2021). How the conceptual specificity of individual words affects incremental sentence composition: MEG evidence.  *Brain and Language*, 218, https://doi.org/10.1016/j.bandl.2021.104951
 
@@ -49,7 +49,16 @@ Mun, Sue-Hyun,  **Kim, Songhee**, Lee, Chungmin (2012). On the event structure a
 
 2010 Mun, Sue-Hyun,  **Songhee Kim**, and Chungmin Lee. On the lexical representation of '*kup*-(bake)' as a record verb and its co-composition: the case of 'CD-*lul kup*-*ta* (burn a CD)'. LSK & KASELL 2010 Winter International Conference on Linguistics (WICL 2010).
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
