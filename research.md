@@ -1,5 +1,6 @@
+<br>
 
-### Publication ###
+### Publications ###
 (in preparation)	**Kim**, **Songhee**,  Jeffrey. R. Binder, Jiaqing Tong, Stephen Mazurchuk, Joseph Heffernan, and Lisa L. Conant.  *Neural and Experiential Semantic Correlates of the syntactic verb classes: fMRI evidence.*
 
 (in review) Wang, Shaonan, **Songhee Kim**, Jeffrey R. Binder, and Liina Pylkkänen. Unlocking the complexity of phrasal composition: an interplay between semantic features and linguistic relations.
@@ -15,9 +16,10 @@ Mun, Sue-Hyun,  **Kim, Songhee**, Lee, Chungmin (2012). On the event structure a
 **Kim, Songhee** (2012). L-Scalarity Plays a Role in Locative Alternation: A Case from Korean.  *Harvard Studies in Korean Linguistics*  Vol XIV. S. Kuno et al. (eds). Cambridge: Harvard University Press.
 
 
+<br>
+<br>
 
-
-### Presentation ###
+### Presentations ###
 
 2024 Lee, So Young,  **Songhee Kim**. Differential neural processing of Negative Polarity Items: evidence from EEG analysis of ‘ever’ and ‘any.’ Midwest Cognitive Science Conference 2024, Ohio University, Ohio, United States.
 
@@ -49,17 +51,21 @@ Mun, Sue-Hyun,  **Kim, Songhee**, Lee, Chungmin (2012). On the event structure a
 
 2010 Mun, Sue-Hyun,  **Songhee Kim**, and Chungmin Lee. On the lexical representation of '*kup*-(bake)' as a record verb and its co-composition: the case of 'CD-*lul kup*-*ta* (burn a CD)'. LSK & KASELL 2010 Winter International Conference on Linguistics (WICL 2010).
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
