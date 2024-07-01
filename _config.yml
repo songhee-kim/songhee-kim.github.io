@@ -1,4 +1,4 @@
-title: Songhee Kim, Ph.D.
+title: Songhee Kim, Ph.D.https://github.com/songhee-kim/songhee-kim.github.io/tree/gh-pages
 url: "https://songhee-kim.github.io"
 #baseurl: "/researcher"
 
@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About"
    link: index
- - name: "Projects"
+ - name: "Research"
    link: "research"
    #link: "/researcher/"
  - name: "CV"
